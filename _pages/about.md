@@ -26,6 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Welcome everyone! 
+
+I am a Chemical Engineering Ph.D. candidate working with [Prof. Bryan R. Goldsmith](https://cheresearch.engin.umich.edu/goldsmith/), Department of Chemical Engineering, University of Michigan. My Bachelor's and Master's is also in Chemical Engineering. I specialize in computational catalysis and interfacial phenomena using quantum chemistry and molecular dynamics. My doctoral research focuses on understanding adsorption mechanisms of organic pollutants on metal surfaces using DFT and AIMD, with the goal of advancing renewable energy technologies and environmental remediation strategies.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
